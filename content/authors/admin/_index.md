@@ -86,7 +86,7 @@ work:
     company_url: 'https://www.talentia-software.com/en/hr-suite/talentia-hcm/'
     company_logo: ''
     date_start: 2023-01-16
-    date_end: 'Current'
+    date_end: ''
     summary: |2-      
       - Integration of AI features
       - Full-stack developer
