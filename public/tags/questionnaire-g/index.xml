@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Questionnaire G | Lucrezia Laraspata</title>
+    <link>http://localhost:1313/tags/questionnaire-g/</link>
+      <atom:link href="http://localhost:1313/tags/questionnaire-g/index.xml" rel="self" type="application/rss+xml" />
+    <description>Questionnaire G</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Questionnaire G</title>
+      <link>http://localhost:1313/tags/questionnaire-g/</link>
+    </image>
+    
+    <item>
+      <title>Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations</title>
+      <link>http://localhost:1313/publication/survey-qst-gen-gpt/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/survey-qst-gen-gpt/</guid>
+      <description>&lt;p&gt;This sutdy explores how to improve cross-domain recommendation systems using large language models (LLMs). Cross-domain recommendation systems (CDRs) help users receive personalized recommendations across different areas, such as suggesting books based on a user’s movie preferences. However, these systems often suffer from data sparsity, making it difficult to gather enough labeled data from both domains (source and target) to train the models effectively.&lt;/p&gt;
+&lt;p&gt;To address this, we propose a strategy that uses the knowledge encoded in LLMs to bridge the gap between different domains. The key innovation is to prompt LLMs by providing user preferences from one domain (e.g., movie ratings) and applying that knowledge to recommend items in another domain (e.g., books). The paper outlines a workflow that involves fine-tuning the LLM through instruction-based learning and carefully designed prompts that generate recommendations along with natural language explanations.&lt;/p&gt;
+&lt;p&gt;The experimental results show that this approach outperforms other state-of-the-art models, both in zero-shot (no prior domain-specific training) and one-shot settings (limited training), making it a promising direction for more explainable AI-driven recommendation systems​.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

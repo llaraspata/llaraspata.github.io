@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Engineering | Lucrezia Laraspata</title>
+    <link>http://localhost:1313/tags/prompt-engineering/</link>
+      <atom:link href="http://localhost:1313/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prompt Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Prompt Engineering</title>
+      <link>http://localhost:1313/tags/prompt-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing human capital management through GPT-driven questionnaire generation</title>
+      <link>http://localhost:1313/publication/survey-qst-gen-gpt/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/survey-qst-gen-gpt/</guid>
+      <description>&lt;p&gt;Survey questionnaires capture employee insights and guide strategic decision-making in Human Capital Management. This study explores the application of the GPT-3.5-Turbo and GPT-4-Turbo models for the automated generation of HR-related questionnaires, addressing a significant gap in the literature.&lt;/p&gt;
+&lt;p&gt;We developed a novel dataset of HR survey questions and evaluated the models’ performance using different task configurations, including zero-shot and one-shot prompting with various hyperparameter settings. The generated questionnaires were assessed for instruction alignment, syntactic and lexical diversity, semantic similarity to human-authored questions, and topic diversity, or serendipity. In collaboration with Talentia Software, we additionally examined the indistinguishability of AI-generated content from human-created counterparts.&lt;/p&gt;
+&lt;p&gt;Results indicate that both models produce questionnaires with high serendipity and intra-questionnaire diversity. However, the indistinguishability test revealed that human evaluators could still distinguish AI-generated content, particularly noting differences in language style and answer variability. These findings underscore the potential of GPT-driven tools in automating questionnaire generation while highlighting the need for further refinement to achieve more human-like outputs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
