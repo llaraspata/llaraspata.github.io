@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/llaraspata
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lucrezia-laraspata-534b85193/
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Lucrezia-Laraspata
+  #- icon: academicons/researchgate
+  #  url: https://www.researchgate.net/profile/Lucrezia-Laraspata
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Y_KKmxYAAAAJ&hl=it&oi=ao
   - icon: academicons/orcid
