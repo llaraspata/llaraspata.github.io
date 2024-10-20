@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/llaraspata
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lucrezia-laraspata-534b85193/
-  #- icon: academicons/researchgate
-  #  url: https://www.researchgate.net/profile/Lucrezia-Laraspata
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Lucrezia-Laraspata
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Y_KKmxYAAAAJ&hl=it&oi=ao
   - icon: academicons/orcid
@@ -58,7 +58,7 @@ education:
   - area: PhD Student
     institution: University of Bari
     date_start: 2024-10-01
-    date_end: Current
+    date_end: 
     summary: |
       The research project aims to the development of AI strategies to enhance Human Resource Management processes, focusing on Large Language Models and their limitatons. My work is supervised by [Prof. Gennaro Vessio](https://www.gennarovessio.com/) and co-supervised by [Prof. Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano) and [Dr. Fabio Cardilli](https://www.linkedin.com/in/fabio-cardilli-2a4a3162/?originalSubdomain=it) from [Talentia Software](https://www.talentia-software.com/en/) collaborating in this project.
     #button:
