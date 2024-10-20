@@ -11,7 +11,7 @@ last_name: Laraspata
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -107,51 +107,39 @@ skills:
   - name: Technical Skills
     items:
       - name: Python, TypeScript, Java, C#
-        #description: ''
-        #percent: 80
-        icon: decentralized
-      
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: .Net, Angular, SpringBoot
-        #description: ''
-        #percent: 100
-        icon: chart-bar
-
-      - name: Git, GitHub
-        #description: ''
-        #percent: 100
-        icon: git
-
+        description: ''
+        percent: 100
+        icon: card
       - name: SQL, NoSQL
-        #description: ''
-        #percent: 40
+        description: ''
+        percent: 40
         icon: circle-stack
-
-      - name: Sonar, Azure, AzureAI, Docker
-        #description: ''
-        #percent: 100
-        icon: shuttle
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Sport
-        #description: ''
-        #percent: 60
+        description: ''
+        percent: 60
         icon: person-simple-walk
       - name: Reading
-        #description: ''
-        #percent: 100
+        description: ''
+        percent: 100
         icon: open-book
       - name: Scuba-Diving
-        #description: ''
-        #percent: 80
+        description: ''
+        percent: 80
         icon: diving-goggles
 
 languages:
   - name: Italian
-    #percent: 100
+    percent: 100
   - name: English
-    #percent: 75
+    percent: 75
   
 # Awards.
 #   Add/remove as many awards below as you like.

@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a PhD student in Computer Science and Mathematics at the CILab at the Department of Computer Science, University of Bari. My research focuses on Large Language Models, Deep Learning, and Computer Vision to enhance and support Human Capital Management activities.
+        My project covers content generation, data analysis, and decision-support tasks trying to reduce the hallucination problem that characterize LLMs.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Feel free to reach out for collaboration opportunities! 😃
     design:
       columns: '1'
   - block: collection
