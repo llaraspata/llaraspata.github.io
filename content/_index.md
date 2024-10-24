@@ -37,7 +37,8 @@ sections:
       text: |-
         I’m a PhD student in Computer Science and Mathematics at the CILab at the Department of Computer Science, University of Bari. My research focuses on Large Language Models, Deep Learning, and Computer Vision to enhance and support Human Capital Management activities.
         
-        My project covers content generation, data analysis, and decision-support tasks trying to reduce the hallucination problem that characterize LLMs.
+        The research project aims to the development of AI strategies to enhance Human Resource Management processes, focusing on Large Language Models and their limitations and covering content generation, data analysis, and decision-support tasks.
+        My work is supervised by [Prof. Gennaro Vessio](https://www.gennarovessio.com/) and co-supervised by [Prof. Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano) and [Dr. Fabio Cardilli](https://www.linkedin.com/in/fabio-cardilli-2a4a3162/?originalSubdomain=it) from [Talentia Software](https://www.talentia-software.com/en/) collaborating in this project.
 
         Feel free to reach out for collaboration opportunities! 😃
     design:
