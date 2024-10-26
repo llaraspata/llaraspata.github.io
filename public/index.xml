@@ -35,6 +35,14 @@
     </item>
     
     <item>
+      <title>YourFutureGuide</title>
+      <link>http://localhost:1313/project/yourfutureguide/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/yourfutureguide/</guid>
+      <description>&lt;p&gt;YourFutureGuide is an LLM-based application to discover which is the most suitable educational or professional path for you. LLaMa3-8b will determine so by investigating your interests and aspirations in only 5 shots.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Leveraging the capabilities of Large Language Models in Questionnaire Generation for Human Resource Management</title>
       <link>http://localhost:1313/event/student-session-ailc24/</link>
       <pubDate>Fri, 21 Jun 2024 11:30:00 +0000</pubDate>
@@ -48,6 +56,14 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>MusicExpress</title>
+      <link>http://localhost:1313/project/musicexpress/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/musicexpress/</guid>
+      <description>&lt;p&gt;The goal of this system is to easily provide music suggestions to different users, considering a couple of playlists: one representing the user&amp;rsquo;s tastes, and the other from which take the recommendations.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -158,30 +174,6 @@
 &lt;p&gt;Released under the 
  license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -313,7 +305,7 @@
 
 
 
-&lt;div id=&#34;chart-514238697&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-238519674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -331,7 +323,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-514238697&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-238519674&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
