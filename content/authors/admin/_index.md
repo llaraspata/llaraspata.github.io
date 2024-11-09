@@ -60,7 +60,7 @@ education:
     date_start: 2024-10-01
     date_end: 
     summary: |
-      The research project aims to the development of AI strategies to enhance Human Resource Management processes, focusing on Large Language Models and their limitations. My work is supervised by [Prof. Gennaro Vessio](https://www.gennarovessio.com/) and co-supervised by [Prof. Giovanna Castellano](https://sites.google.com/site/cilabuniba/people/giovanna-castellano) and [Dr. Fabio Cardilli](https://www.linkedin.com/in/fabio-cardilli-2a4a3162/?originalSubdomain=it) from [Talentia Software](https://www.talentia-software.com/en/) collaborating in this project.
+      The research project aims to the development of AI strategies to enhance Human Resource Management processes, focusing on Large Language Models and their limitations. My work is supervised by Prof. Gennaro Vessio (CILab) and co-supervised by Prof. Giovanna Castellano (CILab) and Dr. Fabio Cardilli (Talentia Software) collaborating in this project.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
