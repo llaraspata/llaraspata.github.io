@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://uniroma2-my.sharepoint.com/:b:/g/personal/claudiudaniel_hromei_alumni_uniroma2_eu/EQn1_ibX2PRIiH9knF7fisUBYmTQpygq0MWaRKntADw6AA?e=Mjm5Ud'
 url_code: 'https://github.com/llaraspata/HRMQuestionnaireGenerationUsingLLM'
 
 # Featured image
