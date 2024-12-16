@@ -13,7 +13,7 @@ address:
   country: Italy
 
 summary: An opportunity to show my PhD projects.
-abstract: 'My PhD project focuses on improving the performance of Large Language Models by mititgating hallucination and uncertainty. Moreover, leveraging advanced Explainable AI's techniques, we aim at deepen their internal mechanisms and automatically enhance the input prompts. Vision Language Models will be explored similarly when applied to HR analytics understanding tasks.'
+abstract: 'My PhD project focuses on improving the performance of Large Language Models by mititgating hallucination and uncertainty. Moreover, leveraging advanced Explainable AI techniques, we aim at deepen their internal mechanisms and automatically enhance the input prompts. Vision Language Models will be explored similarly when applied to HR analytics understanding tasks.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
